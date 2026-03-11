@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/InputField.qml</file>
+        <file>components/Chip.qml</file>
+        <file>components/ChipFlow.qml</file>
+    </qresource>
+</RCC>
